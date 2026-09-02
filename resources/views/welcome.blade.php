@@ -58,7 +58,7 @@
             <div class="eyebrow"><span class="dot"></span> ARCHITECT · PROJECT MANAGEMENT · DEVELOPMENT</div>
             <h1>Architecting<br><span>Better Futures.</span></h1>
             <p class="hero-role">I’m an <strong>Architect</strong>, <strong>Project Management Professional</strong> &amp; <strong>Business &amp; Development Strategist</strong>.</p>
-            <p class="hero-copy">Approximately 16 years of multidisciplinary experience connecting architectural creativity with structured project delivery, commercial thinking and sustainable development.</p>
+            <p class="hero-copy">More than 16 years of multidisciplinary experience connecting architectural creativity with structured project delivery, commercial thinking and sustainable development.</p>
             <div class="hero-actions">
               <a href="#experience" class="btn-primary-af">Explore Experience <i class="bi bi-arrow-right"></i></a>
               <a href="#contact" class="btn-outline-af">Start a Conversation</a>
@@ -66,15 +66,15 @@
             <div class="hero-proof">
               <div><strong data-purecounter-start="0" data-purecounter-end="16" data-purecounter-duration="1.4" class="purecounter">16</strong><span>Years<br>Experience</span></div>
               <div><strong>20+</strong><span>Projects<br>Listed</span></div>
-              <div><strong>$20M+</strong><span>Project<br>Value</span></div>
+              <div><strong>$120M+</strong><span>Project<br>Value</span></div>
             </div>
           </div>
           <div class="col-lg-5" data-aos="fade-left" data-aos-delay="150">
             <div class="hero-portrait-wrap">
               <div class="datum datum-a"></div><div class="datum datum-b"></div><div class="datum datum-c"></div>
               <div class="portrait-frame"><img src="{{ asset('assets/img/ahsan-portrait.jpeg') }}" alt="Professional portrait of Ahsan Firoz"></div>
-              <div class="portrait-tag"><span>AF / 01</span><b>DESIGN · DELIVERY · DEVELOPMENT</b></div>
-              <div class="coordinate">23°48′N<br>90°24′E</div>
+              {{-- <div class="portrait-tag"><span>AF / 01</span><b>DESIGN · DELIVERY · DEVELOPMENT</b></div>
+              <div class="coordinate">23°48′N<br>90°24′E</div> --}}
             </div>
           </div>
         </div>
@@ -140,7 +140,7 @@
           <div class="col-lg-8">
             <div class="timeline">
               <article id="exp-founder" class="timeline-item" data-aos="fade-up"><div class="timeline-year">Sept ’26 — Now</div><div class="timeline-dot"></div><div class="timeline-content"><span>Avenue Projects</span><h3>Founder &amp; CEO</h3><ul class="timeline-list"><li>Define and execute the company's long-term vision, business strategy, growth roadmap and market positioning across project management, architectural design, interior design-build and construction.</li><li>Provide strategic direction from initial concept, feasibility and design through procurement, construction, handover and post-completion, ensuring quality, timeline, budget and client expectations are met.</li><li>Lead the organization in delivering innovative architectural solutions, high-quality interiors and technically sound construction while upholding the highest standards of craftsmanship, safety and compliance.</li><li>Build and develop a high-performing multidisciplinary team of architects, engineers, project managers, designers and construction professionals, fostering accountability and continuous improvement.</li></ul></div></article>
-              <article id="exp-ace" class="timeline-item" data-aos="fade-up"><div class="timeline-year">Nov ’21 — Aug ’26</div><div class="timeline-dot"></div><div class="timeline-content"><span>ACE Consultants Ltd. / SJ-SMEC</span><h3>Architect</h3><p>Led the feasibility study and detailed architectural design for Dhaka MRT Line 05 Southern Route, including station infrastructure, specifications, BoQ and cost estimation, plus TOD strategy, finishes, façade and roofing systems.</p></div></article>
+              <article id="exp-ace" class="timeline-item" data-aos="fade-up"><div class="timeline-year">Nov ’21 — Aug ’26</div><div class="timeline-dot"></div><div class="timeline-content"><span>ACE Consultants Ltd. / SJ-SMEC</span><h3>Architect</h3><p>Prepared feasibility study and detailed architectural design for Dhaka MRT Line 05 Southern Route, including station infrastructure, specifications, BoQ and cost estimation, plus TOD strategy, finishes, façade and roofing systems.</p></div></article>
               <article id="exp-vitti" class="timeline-item" data-aos="fade-up"><div class="timeline-year">Oct ’19 — Nov ’21</div><div class="timeline-dot"></div><div class="timeline-content"><span>Vitti Sthapati Brindo Ltd.</span><h3>Senior Architect / Project Manager</h3><ul class="timeline-list"><li>Led project acquisition and commercial structuring for EXIM Tower, British American Tobacco, DPDC Twin Tower, Aviation &amp; Aerospace University, Hamid Tower and DPDC Four Star Hotel.</li><li>Managed projects totaling USD 20M+, serving as Project Manager for EXIM Tower, BIDA Bhaban and British American Tobacco within a two-year period.</li><li>Developed schematic designs, ballpark estimates and contractual frameworks, including USD 7M in agreements for EXIM Tower and DPDC Hatirjheel projects.</li><li>Coordinated complex multi-party and international collaborations involving Kengo Kuma &amp; Associates, HVS Singapore and DPDC.</li></ul><div class="mini-projects"><b>EXIM Tower</b><b>BIDA Bhaban</b><b>BAT Project</b></div></div></article>
               <article id="exp-balisera" class="timeline-item" data-aos="fade-up"><div class="timeline-year">Earlier</div><div class="timeline-dot"></div><div class="timeline-content"><span>Balisera Hill Tea Co. Ltd.</span><h3>Head of Development</h3><p>Designed and supervised construction of a 30,000 kg-capacity withering house, prepared contract packages and delivered small civil structures.</p></div></article>
               <article id="exp-lged" class="timeline-item" data-aos="fade-up"><div class="timeline-year">2013 — 2018</div><div class="timeline-dot"></div><div class="timeline-content"><span>LGED, Bangladesh</span><h3>Architect / Project Coordinator</h3><p>Worked across public infrastructure, landscape, parks and transportation interchange projects, supporting priorities for Gazipur City Corporation, 13 municipalities and 35 urban centers.</p></div></article>
