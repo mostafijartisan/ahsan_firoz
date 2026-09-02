@@ -22,7 +22,7 @@
     <div class="header-shell">
       <a class="brand" href="#home" aria-label="Ahsan Firoz home">
         <span class="brand-mark">AF</span>
-        <span class="brand-word">AHSAN FIROZ</span>
+        <span class="brand-word">AHSAN FIROZ, PMP, MIAB</span>
       </a>
       <button class="mobile-toggle" type="button" aria-controls="primary-nav" aria-expanded="false" aria-label="Open menu"><i class="bi bi-list"></i></button>
       <nav id="primary-nav" class="primary-nav" aria-label="Primary navigation">
