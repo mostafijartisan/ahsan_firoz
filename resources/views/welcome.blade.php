@@ -180,9 +180,9 @@
           <div class="contact-copy"><div class="section-kicker">04 / CONTACT</div><h2>Let’s build something<br><span>worth remembering.</span></h2><p>For architecture, project management, development strategy, consulting or collaboration, start a conversation.</p><a class="btn-primary-af" href="mailto:hello@avenueprojects.com">Get in Touch <i class="bi bi-arrow-up-right"></i></a></div>
           <div class="contact-meta">
             <div class="contact-info">
-              <div class="contact-row"><span class="contact-row-icon"><i class="bi bi-whatsapp"></i></span><div><span>WHATSAPP</span><a href="https://wa.me/8801819884884" target="_blank" rel="noopener">+880 1819-884884</a></div></div>
-              <div class="contact-row"><span class="contact-row-icon"><i class="bi bi-envelope"></i></span><div><span>EMAIL</span><a href="mailto:ahsanfr.mail@gmail.com">ahsanfr.mail@gmail.com</a></div></div>
-              <div class="contact-row"><span class="contact-row-icon"><i class="bi bi-geo-alt"></i></span><div><span>ADDRESS</span><b>House 235, Lane 03, DOHS Baridhara, Dhaka 1206, Bangladesh</b></div></div>
+              <div class="contact-row"><span class="contact-row-icon"><i class="bi bi-whatsapp"></i></span><div class="contact-row-body"><span>WHATSAPP</span><a href="https://wa.me/8801819884884" target="_blank" rel="noopener">+880 1819-884884</a></div></div>
+              <div class="contact-row"><span class="contact-row-icon"><i class="bi bi-envelope"></i></span><div class="contact-row-body"><span>EMAIL</span><a href="mailto:ahsanfr.mail@gmail.com">ahsanfr.mail@gmail.com</a></div></div>
+              <div class="contact-row"><span class="contact-row-icon"><i class="bi bi-geo-alt"></i></span><div class="contact-row-body"><span>ADDRESS</span><b>House 235, Lane 03, DOHS Baridhara, Dhaka 1206, Bangladesh</b></div></div>
             </div>
             <div class="contact-map">
               <iframe src="https://www.google.com/maps?q=23.8142267,90.4122498&amp;z=17&amp;hl=en&amp;output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Ahsan Firoz office location"></iframe>
