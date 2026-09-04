@@ -4,9 +4,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Ahsan Firoz, PMP, MIAB — Architect, Project Management Professional, Business & Development Strategist, Founder & CEO.">
+  <meta name="author" content="Ahsan Firoz">
   <meta name="theme-color" content="#39BF47">
   <title>Ahsan Firoz — Architect · Project Management · Development</title>
-  <link rel="icon" href="{{ asset('assets/img/brand-green-reference.jpg') }}">
+  <link rel="canonical" href="https://ahsanfiroz.com/">
+
+  <link rel="icon" href="{{ asset('assets/img/favicon.svg') }}" type="image/svg+xml">
+  <link rel="icon" href="{{ asset('favicon.ico') }}" sizes="32x32">
+  <link rel="apple-touch-icon" href="{{ asset('assets/img/apple-touch-icon.png') }}">
+  <link rel="manifest" href="{{ asset('site.webmanifest') }}">
+
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="Ahsan Firoz">
+  <meta property="og:title" content="Ahsan Firoz — Architect · Project Management · Development">
+  <meta property="og:description" content="Ahsan Firoz, PMP, MIAB — Architect, Project Management Professional, Business & Development Strategist, Founder & CEO.">
+  <meta property="og:url" content="https://ahsanfiroz.com/">
+  <meta property="og:image" content="{{ asset('assets/img/og-cover.jpg') }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Ahsan Firoz — Architect · Project Management · Development">
+  <meta name="twitter:description" content="Ahsan Firoz, PMP, MIAB — Architect, Project Management Professional, Business & Development Strategist, Founder & CEO.">
+  <meta name="twitter:image" content="{{ asset('assets/img/og-cover.jpg') }}">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@500;600;700;800&display=swap" rel="stylesheet">
@@ -14,8 +34,41 @@
   <link href="{{ asset('assets/vendor/bootstrap-icons/bootstrap-icons.min.css') }}" rel="stylesheet">
   <link href="{{ asset('assets/vendor/aos/aos.css') }}" rel="stylesheet">
   <link href="{{ asset('assets/css/main.css') }}?v={{ filemtime(public_path('assets/css/main.css')) }}" rel="stylesheet">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>tailwind.config={corePlugins:{preflight:false},theme:{extend:{colors:{afgreen:'#39BF47',afdeep:'#122019'}}}}</script>
+
+  <script type="application/ld+json">
+  @verbatim
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ahsan Firoz",
+    "url": "https://ahsanfiroz.com/",
+    "image": "https://ahsanfiroz.com/assets/img/ahsan-portrait.jpeg",
+    "jobTitle": "Founder & CEO",
+    "honorificSuffix": "PMP, MIAB",
+    "description": "Architect, Project Management Professional, Business & Development Strategist, Founder & CEO of Avenue Projects.",
+    "email": "mailto:ahsanfr.mail@gmail.com",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Avenue Projects"
+    },
+    "alumniOf": [
+      { "@type": "CollegeOrUniversity", "name": "BRAC University" },
+      { "@type": "CollegeOrUniversity", "name": "North South University" }
+    ],
+    "hasCredential": [
+      { "@type": "EducationalOccupationalCredential", "name": "Project Management Professional (PMP)", "credentialCategory": "certification" },
+      { "@type": "EducationalOccupationalCredential", "name": "Member, Institute of Architects Bangladesh (IAB · F-031)", "credentialCategory": "professional membership" }
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "House 235, Lane 03, DOHS Baridhara",
+      "addressLocality": "Dhaka",
+      "postalCode": "1206",
+      "addressCountry": "BD"
+    }
+  }
+  @endverbatim
+  </script>
 </head>
 <body>
   <header id="site-header" class="site-header">
@@ -72,7 +125,7 @@
           <div class="col-lg-5" data-aos="fade-left" data-aos-delay="150">
             <div class="hero-portrait-wrap">
               <div class="datum datum-a"></div><div class="datum datum-b"></div><div class="datum datum-c"></div>
-              <div class="portrait-frame"><img src="{{ asset('assets/img/ahsan-portrait.jpeg') }}" alt="Professional portrait of Ahsan Firoz"></div>
+              <div class="portrait-frame"><img src="{{ asset('assets/img/ahsan-portrait.jpeg') }}" alt="Professional portrait of Ahsan Firoz" width="640" height="640"></div>
               {{-- <div class="portrait-tag"><span>AF / 01</span><b>DESIGN · DELIVERY · DEVELOPMENT</b></div>
               <div class="coordinate">23°48′N<br>90°24′E</div> --}}
             </div>

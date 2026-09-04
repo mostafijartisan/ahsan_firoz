@@ -1,0 +1,12 @@
+{
+  "name": "Ahsan Firoz — Architect, PMP, MIAB",
+  "short_name": "Ahsan Firoz",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#39BF47",
+  "background_color": "#122019",
+  "display": "standalone",
+  "start_url": "/"
+}
